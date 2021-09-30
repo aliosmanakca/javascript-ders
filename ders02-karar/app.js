@@ -51,7 +51,7 @@ console.log(
 // ÖRNEK
 // const borç = 0;
 // const maaş = 3000;
-// console.log(borç && maaş > 2500 ? "Kredi Alabilir  🤑" : "Kredi Alamaz 🥺")
+// console.log(borç && maaş > 2500 ? "Kredi Alabilir  🤑" : "Kredi Alamaz 🥺")  //! && isareti oldugu icin borcu boolean olarak kabul ediyor
 //MacOS işletim sisteminde Emoji ve Semboller penceresini açmak için; klavyeden 'control' , 'command' ve 'space' tuşlarına aynı anda basın. Ardından ilgili
 //metin içeriğinde ya da sohbet penceresinde emoji klavyesi karşınıza çıkacaktır.
 //Metin girişi sırasında Windows logo(pencere) tuşu + . (nokta) yazın. Emoji klavyesi görüntülenir.
